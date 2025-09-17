@@ -8,7 +8,7 @@
 I’m a frontend engineer with over 5 years of experience in building highly performant and user-centric applications. I love working on complex UI systems, mentoring peers, and continuously learning new technologies.  
 
 - 🖥️ Strong in **React, JavaScript, TypeScript, Next.js, Redux Toolkit, Tailwind CSS**  
-- ⚡ Experience in optimizing performance (improved Lighthouse scores, reduced load time by 20% at Cvent)  
+- ⚡ Experience in optimizing performance (improved Lighthouse scores, reduced load time by 20% at Spinny)  
 - 🤝 Skilled in collaboration, mentoring, and conducting knowledge-sharing tech sessions  
 - ☁️ Exposure to **AWS, Jenkins, Octopus** and CI/CD pipelines  
 - 🛠️ Advocate of clean, reusable, and scalable code architecture  
