@@ -7,7 +7,7 @@
 ## 💡 About Me
 I’m a frontend engineer with over 5 years of experience in building highly performant and user-centric applications. I love working on complex UI systems, mentoring peers, and continuously learning new technologies.  
 
-- 🖥️ Strong in **React, TypeScript, Next.js, Redux Toolkit, Tailwind CSS**  
+- 🖥️ Strong in **React, JavaScript, TypeScript, Next.js, Redux Toolkit, Tailwind CSS**  
 - ⚡ Experience in optimizing performance (improved Lighthouse scores, reduced load time by 20% at Cvent)  
 - 🤝 Skilled in collaboration, mentoring, and conducting knowledge-sharing tech sessions  
 - ☁️ Exposure to **AWS, Jenkins, Octopus** and CI/CD pipelines  
@@ -21,12 +21,12 @@ I’m a frontend engineer with over 5 years of experience in building highly per
 - Led end-to-end execution for **Rule-based Segments** epic (planning → execution).  
 - Revamped **Custom Page UI**, improving planner usability with new section features.  
 - Integrated **Vercel AI SDK** for interactive AI chat with prompt engineering.  
-- Improved page load speed by **20%** via performance best practices.  
 - Conducted bi-weekly tech sessions for team knowledge sharing.  
 - Monitored Jenkins builds, Octopus deployments, and regression fixes in shared repos.  
 
 ### 🔹 **Spinny | Software Development Engineer** (Aug 2021 – Oct 2023, Gurugram)  
-- Revamped **truebil.com**, leading to **120% increase in leads**.  
+- Revamped **truebil.com**, leading to **120% increase in leads**.
+- Improved page load speed by **20%** via performance best practices.  
 - Led **white labeling** of Spinny’s codebase for multi-tenant deployments (Spinny, Truebil, SpinnyMax).  
 - Conducted A/B testing to influence product decisions.  
 - Mentored junior engineers and collaborated closely with product team.  
@@ -44,7 +44,6 @@ I’m a frontend engineer with over 5 years of experience in building highly per
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
