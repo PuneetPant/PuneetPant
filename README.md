@@ -18,15 +18,16 @@ I’m a frontend engineer with over 5 years of experience in building highly per
 ## 🏢 Experience  
 
 ### 🔹 **Shipsy | Senior Frontend Engineer** (Sep 2025 – Present, Gurugram)  
-• Architected MCP-driven UI development standards org-wide using React and TypeScript, running knowledge-sharing
+-  Architected MCP-driven UI development standards org-wide using React and TypeScript, running knowledge-sharing
 sessions that measurably improved team delivery velocity.
-• Built AI-powered developer tooling with Claude APIs to automate code review and integration testing workflows, reducing
+-  Built AI-powered developer tooling with Claude APIs to automate code review and integration testing workflows, reducing
 manual overhead across a 5,000+ shipment platform.
-• Owned end-to-end technical delivery of 5+ high-priority features — from HLD and architecture to zero-vulnerability production
+-  Owned end-to-end technical delivery of 5+ high-priority features — from HLD and architecture to zero-vulnerability production
 releases monitored via Sentry and Datadog.
-• Designed a backend-driven theming system in React enabling multi-org dynamic UI configuration without per-client frontend
+-  Designed a backend-driven theming system in React enabling multi-org dynamic UI configuration without per-client frontend
 rewrites, serving thousands of daily active users.
-• Aligned product and engineering 
+-  Aligned product and engineering across multiple PODs on scope and feasibility, contributing simultaneously to web, portal,
+and mobile-web-view platforms.
 
 ### 🔹 **Cvent | Senior Frontend Engineer** (Oct 2023 – Sep 2025, Gurugram)  
 - Led end-to-end execution for **Rule-based Segments** epic (planning → execution).  
