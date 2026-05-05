@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Puneet Pant  
 
-🚀 **Senior Frontend Engineer @ Cvent** | Building modern, scalable web applications with a focus on performance, usability, and great developer experience.  
+🚀 **Senior Frontend Engineer @ Shipsy** | Building modern, scalable web applications with a focus on performance, usability, and great developer experience.  
 
 ---
 
